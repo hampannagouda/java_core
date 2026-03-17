@@ -4,12 +4,12 @@ class sample{
 		System.out.println("sample class");	
 	}
 }
-class demo extends sample{
+class exam extends sample{
 	void print1() {
 		System.out.println("demo class inherited sample");	
 	}
 }
-class test extends demo{
+class test extends exam{
 	void print() {
 		System.out.println("test class inherited property from demo and sample classes");	
 	}

@@ -37,6 +37,7 @@ public static void main(String []a) {
 	}finally {
 		System.out.println("executed succefully...");
 	}
+	in.close();
 } 
 }
 

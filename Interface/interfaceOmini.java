@@ -1,4 +1,4 @@
-package java_core;
+package Interface;
 
 public class interfaceOmini extends omini{
 

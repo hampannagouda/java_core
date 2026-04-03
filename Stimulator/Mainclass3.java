@@ -1,32 +1,32 @@
-package java_core;
+package Stimulator;
 
-class Mobiles5{
+class Mobiles{
 	void Features() {
 		System.out.println("Features of mobiles");
 	}
 }
-class Vivo5 extends Mobiles5{
+class Vivo extends Mobiles{
 	void Features() {
 		System.out.println("vivo mobile");
 	}
 }
-class Oppo5 extends Mobiles5{
+class Oppo extends Mobiles{
 	void Features() {
 		System.out.println("Oppo mobiles");
 	}
 }
-class Redmi5 extends Mobiles5{
+class Redmi extends Mobiles{
 	void Features() {
 		System.out.println("redmi mobiles");
 	}
 }
-class Simulator5{
+class Simulator{
 	static void Purchase(Mobiles m)
 	{
 		m.Features();
 	}
 }
-public class Mainclass4 {
+public class Mainclass3 {
 
 	public static void main(String[] args) {
 		Vivo v1=new Vivo();

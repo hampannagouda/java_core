@@ -1,4 +1,4 @@
-package java_core;
+package Exception;
 
 class VotingException extends Exception {
     VotingException(String msg) {

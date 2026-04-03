@@ -1,4 +1,4 @@
-package java_core;
+package Stimulator;
 
 class Lg{
 	void Select() {

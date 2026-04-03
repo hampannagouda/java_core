@@ -1,4 +1,4 @@
-package java_core;
+package Polymorphism;
 
 public class method_overriding {
 

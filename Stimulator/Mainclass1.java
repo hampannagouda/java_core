@@ -1,4 +1,4 @@
-package java_core;
+package Stimulator;
 class Amazon{
 	void Buy() {
 		System.out.println("buy from amazon");

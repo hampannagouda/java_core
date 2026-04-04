@@ -1,4 +1,4 @@
-package Threads;
+package java_core.Threads;
 
 public class MultipleThreading {
 public static void main(String[] args) {

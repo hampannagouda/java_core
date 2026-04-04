@@ -1,4 +1,4 @@
-package Inheritance;
+package java_core.Inheritance;
 
 class sample3 {
     void show() {

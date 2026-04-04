@@ -1,4 +1,4 @@
-package Interface;
+package java_core.Interface;
 
 class dog implements Animal{
 	public void noise() {

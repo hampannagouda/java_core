@@ -1,4 +1,4 @@
-package Stimulator;
+package java_core.Stimulator;
 
 class Mobiles{
 	void Features() {

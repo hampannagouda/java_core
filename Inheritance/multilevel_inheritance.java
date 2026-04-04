@@ -1,4 +1,4 @@
-package Inheritance;
+package java_core.Inheritance;
 class sample{
 	void print2() {
 		System.out.println("sample class");	

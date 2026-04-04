@@ -1,4 +1,4 @@
-package Abstract;
+package java_core.Abstract;
 
 
 abstract class demo {

@@ -1,4 +1,4 @@
-package java_core;
+package Abstract;
 
 abstract class samp {
 	abstract void disp();

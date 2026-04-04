@@ -1,4 +1,4 @@
-package java_core;
+package Exception;
 
 import java.util.Scanner;
 
